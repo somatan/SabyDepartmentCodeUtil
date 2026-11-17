@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "ServiceCodeChanger": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SBIS_URL": "https://fix-online.sbis.ru",
+        "SBIS_LOGIN": "ОсиповаАЕ",
+        "SBIS_ORG_INN": "1661039827",
+        "SBIS_ORG_KPP": "",
+        "SBIS_ONLY_WITHOUT_CODE": "0",
+        "SBIS_CODE_MASK": "ПОДРАЗ###"
+      }
+    }
+  }
+}
